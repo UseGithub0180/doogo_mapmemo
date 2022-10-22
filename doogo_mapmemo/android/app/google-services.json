@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517085003731",
+    "project_id": "for-jaeheon",
+    "storage_bucket": "for-jaeheon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517085003731:android:164e40d0fe747deee2f926",
+        "android_client_info": {
+          "package_name": "com.kaliburn.for_jaeheon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517085003731-cmcnqg34ava9l7dp3ss9d47qcb9lil3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWKfL0FBOy85n8z58cGb3a7fMU-BVDEEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517085003731-cmcnqg34ava9l7dp3ss9d47qcb9lil3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
